@@ -1,8 +1,7 @@
 blocks
 ======
 Main Site
-http://ken-soft.com/2008/12/24/blocks-advanced-tetris-clone-written-in-purebasic/
-(Executable: http://www.ken-soft.com/dl/blocks.zip)
+http://kennycason.com/posts/2008-12-24-vulcan-i-writtenin-purebasic.html
 
 This was one of the first games I ever wrote to completion. So I'm uploading the source just for the sake of nastalgia :)
 
@@ -18,10 +17,10 @@ High Scores are saved for each of the modes.
 <table>
 <tr>
     <td>
-        <img src="http://www.ken-soft.com/code/pb/blocks/screenshot.JPG" width="400px"/>
+        <img src="http://www.kennycason.com/code/pb/blocks/screenshot.JPG" width="400px"/>
     </td>
     <td>
-        <img src="http://www.ken-soft.com/code/pb/blocks/screenshot4.JPG" width="400px"/>
+        <img src="http://www.kennycason.com/code/pb/blocks/screenshot4.JPG" width="400px"/>
     </td>
 </tr>
 </table>
