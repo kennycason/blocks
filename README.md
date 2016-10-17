@@ -1,7 +1,7 @@
 Blocks
 ======
 
-This was one of the first games I ever wrote to completion. So I'm uploading the source just for the sake of nastalgia :)
+This was one of the first games I ever wrote to completion. So I'm uploading the source just for the sake of nostalgia. :)
 
 Blocks is a tetris like game written in Purebasic.
 
