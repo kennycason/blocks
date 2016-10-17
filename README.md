@@ -17,10 +17,10 @@ Compiled with PureBasic 3.94
 <table>
 <tr>
     <td>
-        <img src="http://www.kennycason.com/code/pb/blocks/screenshot.JPG" width="400px"/>
+        <img src="/screenshots/screenshot.JPG" width="400px"/>
     </td>
     <td>
-        <img src="http://www.kennycason.com/code/pb/blocks/screenshot4.JPG" width="400px"/>
+        <img src="/screenshots/screenshot4.JPG" width="400px"/>
     </td>
 </tr>
 </table>
