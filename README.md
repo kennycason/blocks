@@ -1,7 +1,5 @@
 blocks
 ======
-Main Site
-http://kennycason.com/posts/2008-12-24-vulcan-i-writtenin-purebasic.html
 
 This was one of the first games I ever wrote to completion. So I'm uploading the source just for the sake of nastalgia :)
 
